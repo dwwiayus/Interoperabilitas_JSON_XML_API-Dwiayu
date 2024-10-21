@@ -1,3 +1,6 @@
+Nama  : Dwi Ayu Setiawati
+Nim  : 362358302073
+
 Buat	endpoint	POST	di	API	JSON	dan	XML	yang	memungkinkan	pengguna menambahkan	item	baru	ke	daftar.
 ![Screenshot (54)](https://github.com/user-attachments/assets/83138de9-e060-4e90-9a91-5d9e26287e7e)
 
